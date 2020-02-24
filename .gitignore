@@ -1,0 +1,6 @@
+### other
+*.o
+*.swp
+*.core
+*.exe
+*.out
